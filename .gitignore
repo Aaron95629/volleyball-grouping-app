@@ -1,0 +1,17 @@
+# React Native / Android
+android/.gradle/
+android/app/build/
+android/app/build/generated/
+android/app/build/intermediates/
+android/app/build/**/*.dex
+android/app/build/**/*.bin
+
+# IDE files
+.idea/
+
+# Node modules (if relevant)
+node_modules/
+
+# Other caches and temp files
+*.lock
+*.log
