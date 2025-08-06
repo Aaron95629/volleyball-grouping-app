@@ -57,7 +57,6 @@ const CITY_TYPE_MAPPING = {
     'lienchiang': '連江縣',
 };
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyDA_hCeb-ioE_xYIfFhL4suhHxLYN2QWvc';
 
 /**
  * CancelEventModal Component
